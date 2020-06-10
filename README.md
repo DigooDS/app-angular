@@ -23,7 +23,7 @@ Esta é uma simples aplicação SPA desenvolvida durante o curso ministrado pelo
 - **Utilização de Pipes**;
 - **Diretivas de Decisão**;
 
-Além disso, configuramos um fake backend com o 'Json Server' para podermos consumir serviços utilizando o **HttpClient**.
+Além disso, foi configurado um fake backend com o 'Json Server' para poder criar serviços utilizando o **HttpClient**.
 
 ---
 
