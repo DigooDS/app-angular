@@ -50,7 +50,7 @@ Além disso, configuramos um fake backend com o 'Json Server' para podermos cons
   # para instalar o Json Server
   $ npm install -g json-server
 
-  # para rodar o backend
+  # para rodar o fake backend
   $ json-server --watch produtos.json
 
   # para rodar a aplicação
